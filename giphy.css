@@ -1,0 +1,12 @@
+body {
+    min-width: 300px;
+}
+
+.giphy-img {
+    margin: 10px;
+    border: 4px ridge black;
+}
+
+.giphy-form {
+    margin: 20px;
+}
